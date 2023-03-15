@@ -372,9 +372,20 @@ html{
    
     }
 }
-@media (max-width: 320px){
+@media (max-width: 419px){
     html{
-        font-size: 6px;
+        font-size: 4px;
+     }
+    align-item-center{
+      
+        width: 50%;
+        height: 100%;
+       
+    }
+}
+@media (max-width:402px){
+    html{
+        font-size: 3px;
      }
     align-item-center{
       
