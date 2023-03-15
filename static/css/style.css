@@ -19,9 +19,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-html{
-    font-size: 10px;
-}
+
 body {
     height: 100vh;
     background:url(https://oir.mobi/uploads/posts/2021-03/1616587116_22-p-programmirovanie-fon-28.jpg);
@@ -292,39 +290,7 @@ video {
     }
 }
 
-@media (max-width: 1200px){
-    
-    html{
-        width: 5rem;
-        height: 5rem;
-    }   
-      
-   
-}
-@media (max-width: 800px){
 
-    html{
-        width: 5rem;
-        height: 5rem;
-    }  
- 
-}
-@media (max-width: 600px){
 
-    html{
-        width: 7rem;
-        height: 7rem;
-    }
- 
-}
-@media (max-width: 426px){
-    html{
-        width: 7rem;
-        height: 7rem;
-    }
-    
-      
-    
-}
 
 
