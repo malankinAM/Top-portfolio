@@ -1,7 +1,7 @@
 # Креативный дизайн сайта личного портфолио с использованием HTML CSS и JavaScript
 
-## Видео
+## Смотреть
 
-href="https://t.me/+QIHgKtSk-vtiNjli"
+https://github.com/malankinAM/Top-portfolio
 
 
